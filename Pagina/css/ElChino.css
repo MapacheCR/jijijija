@@ -1,0 +1,55 @@
+a{
+    text-decoration: none;
+}
+.Titu{
+    color: black;
+    background-color: #decbb4;
+    margin: -50;
+}
+.FA{
+    background-color: rgb(222, 203, 180);
+    border: 1px solid #e0e0e0;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+    text-align: left;
+    width: 300p
+}
+.PO{
+    background-color: rgb(222, 203, 180);
+    border: 1px solid #e0e0e0;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+    text-align: left;
+    width: 300p
+}
+
+.SS{
+    background-color: rgb(222, 203, 180);
+    border: 1px solid #e0e0e0;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+    text-align: left;
+    width: 300p
+}
+
+.BB{
+    background-color: rgb(222, 203, 180);
+    border: 1px solid #e0e0e0;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+    text-align: left;
+    width: 300p
+}
+
+body{
+    background-color:#f2f0e9;
+    text-align: center;
+}
